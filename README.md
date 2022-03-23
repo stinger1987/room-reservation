@@ -1,6 +1,6 @@
 # room-reservation
 room-reservation
-A simple application to support meeting room reservation inside a company, knowing that:
+a simple application to support meeting room reservation inside a company, knowing that:
 A company can have multiple buildings, these can have multiple floors which in turn can have multiple meeting rooms.
 Meeting rooms have maximum allocation.
 Only some rooms have multimedia capabilities.
@@ -12,7 +12,3 @@ Result list should be ordered based off efficiency of allocation. Specifying the
 
 User should be able to view/list reserved time spans per room for all buildings on any day.
 
-Any object-oriented language of choice may be used, but Java is preferred.
-Pre-setup of data is advised, with multiple buildings, floors and rooms with varying allocation limits.
-UI is not required nor advised.
-Adding test coverage to your implementation will be valued.
