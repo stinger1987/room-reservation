@@ -1,0 +1,190 @@
+{
+  "name": "Acme",
+  "buildings": [
+    {
+      "name": "Block A",
+      "floors": [
+        {
+          "number": 1,
+          "meetingRooms": [
+            {
+              "name": "Room 101",
+              "maxAllocation": 5,
+              "haveMultimedia": false
+            },
+            {
+              "name": "Room 108",
+              "maxAllocation": 13,
+              "haveMultimedia": true
+            },
+            {
+              "name": "Room 135",
+              "maxAllocation": 20,
+              "haveMultimedia": true
+            },
+            {
+              "name": "Room 140",
+              "maxAllocation": 10,
+              "haveMultimedia": false
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "meetingRooms": [
+            {
+              "name": "Room 203",
+              "maxAllocation": 3,
+              "haveMultimedia": false
+            },
+            {
+              "name": "Room 205",
+              "maxAllocation": 6,
+              "haveMultimedia": true
+            },
+            {
+              "name": "Room 210",
+              "maxAllocation": 7,
+              "haveMultimedia": true
+            },
+            {
+              "name": "Room 215",
+              "maxAllocation": 15,
+              "haveMultimedia": false
+            },
+            {
+              "name": "Room 225",
+              "maxAllocation": 25,
+              "haveMultimedia": false
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "meetingRooms": [
+            {
+              "name": "Room 306",
+              "maxAllocation": 4,
+              "haveMultimedia": false
+            },
+            {
+              "name": "Room 308",
+              "maxAllocation": 9,
+              "haveMultimedia": true
+            },
+            {
+              "name": "Room 311",
+              "maxAllocation": 7,
+              "haveMultimedia": true
+            },
+            {
+              "name": "Room 312",
+              "maxAllocation": 4,
+              "haveMultimedia": true
+            },
+            {
+              "name": "Room 315",
+              "maxAllocation": 15,
+              "haveMultimedia": false
+            },
+            {
+              "name": "Room 325",
+              "maxAllocation": 14,
+              "haveMultimedia": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Block B",
+      "floors": [
+        {
+          "number": 4,
+          "meetingRooms": [
+            {
+              "name": "Room 401",
+              "maxAllocation": 6,
+              "haveMultimedia": false
+            },
+            {
+              "name": "Room 403",
+              "maxAllocation": 19,
+              "haveMultimedia": true
+            },
+            {
+              "name": "Room 417",
+              "maxAllocation": 20,
+              "haveMultimedia": true
+            },
+            {
+              "name": "Room 430",
+              "maxAllocation": 50,
+              "haveMultimedia": true
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "meetingRooms": [
+            {
+              "name": "Room 805",
+              "maxAllocation": 2,
+              "haveMultimedia": true
+            },
+            {
+              "name": "Room 807",
+              "maxAllocation": 9,
+              "haveMultimedia": true
+            },
+            {
+              "name": "Room 808",
+              "maxAllocation": 24,
+              "haveMultimedia": false
+            },
+            {
+              "name": "Room 815",
+              "maxAllocation": 15,
+              "haveMultimedia": false
+            },
+            {
+              "name": "Room 825",
+              "maxAllocation": 21,
+              "haveMultimedia": false
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "meetingRooms": [
+            {
+              "name": "Room 1001",
+              "maxAllocation": 5,
+              "haveMultimedia": true
+            },
+            {
+              "name": "Room 1003",
+              "maxAllocation": 5,
+              "haveMultimedia": false
+            },
+            {
+              "name": "Room 1011",
+              "maxAllocation": 7,
+              "haveMultimedia": true
+            },
+            {
+              "name": "Room 1015",
+              "maxAllocation": 7,
+              "haveMultimedia": false
+            },
+            {
+              "name": "Room 1025",
+              "maxAllocation": 7,
+              "haveMultimedia": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
